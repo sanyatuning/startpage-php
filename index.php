@@ -7,7 +7,7 @@ if (isset($_GET['code'])) {
 ?><!DOCTYPE html>
 <html>
     <head>
-        <title>Ultimate Start Page</title>
+        <title>Ultimate Start Page (git version)</title>
         <style type="text/css">
             @import "960gs.css";
             @import "style.css";
