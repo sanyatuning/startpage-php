@@ -1,0 +1,19 @@
+tile.News content {
+  padding: 0;
+  min-height: 150px;
+}
+
+tile.News:hover {
+}
+
+tile.News img {
+  display: block;
+  height: 100px;
+}
+tile.News p {
+  background-image: url(icon/news-40.png);
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  margin: 5px 20px 0 15px;
+  padding-left: 45px;
+}

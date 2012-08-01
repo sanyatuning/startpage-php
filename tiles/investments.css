@@ -1,0 +1,11 @@
+tile.Investments {
+}
+
+tile.Investments:hover {
+}
+tile.Investments p {
+  padding-left: 75px;
+}
+tile.Investments span.icon {
+  background-image: url(icon/investments-40.png);
+}

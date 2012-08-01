@@ -1,0 +1,7 @@
+tile.Store {
+}
+tile.Store:hover {
+}
+tile.Store span.bigicon {
+  background-image: url(icon/store-110.png);
+}

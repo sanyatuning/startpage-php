@@ -1,0 +1,19 @@
+tile.Photos content {
+  padding:0;
+  min-height: 150px;
+}
+
+
+tile.Photos:hover {
+}
+tile.Photos img {
+  display: block;
+}
+tile.Photos span.count {
+  position: absolute;
+  bottom: 0;
+  right: 12px;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 6px 12px;
+}

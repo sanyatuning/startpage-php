@@ -1,0 +1,23 @@
+tile.Calendar {
+}
+tile.Calendar:hover {
+}
+tile.Calendar h2 {
+    padding-top: 25px;
+}
+tile.Calendar span.date {
+  float: right;
+  font-size: 72px;
+  margin: -20px 10px;
+}
+tile.Calendar span.day {
+  clear: right;
+  float: right;
+  font-weight: bold;
+  margin: 4px 14px;
+  font-size: 14px;
+}
+tile.Calendar span.icon {
+  background-image: url(icon/calendar-40.png);
+}
+

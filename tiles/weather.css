@@ -1,0 +1,30 @@
+tile.Weather content {
+  padding: 10px 20px;
+  height: 130px;
+}
+tile.Weather:hover {
+
+}
+tile.Weather h2, tile.Weather p {
+  padding-left: 0;
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  padding-bottom: 2px;
+}
+tile.Weather h2 {
+  padding-top: 6px;
+  
+}
+
+tile.Weather h2 img {
+  width: 35px;
+  height: 35px;
+  padding-right: 10px;
+  vertical-align: middle;
+}
+tile.Weather p img {
+  width: 21px;
+  height: 21px;
+  padding-right: 10px;
+  vertical-align: middle;
+}

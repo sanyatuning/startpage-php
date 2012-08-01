@@ -1,0 +1,29 @@
+.darkgreen {
+  background-color: #0e6c38;
+  background: -webkit-linear-gradient(left, #0e6c38, #05853d);
+}
+.lightgreen {
+  background-color: #55af0f;
+  background: -webkit-linear-gradient(left, #55af0f, #7bcf27);
+}
+.darkblue {
+  background-color: #04326e;
+  background: -webkit-linear-gradient(left, #04326e, #0D5FAB);
+
+}
+.lightblue {
+  background-color: #00aadb;
+  background: -webkit-linear-gradient(left, #00aadb, #03c2e5);
+}
+.orange {
+  background-color: #e55d1f;
+  background: -webkit-linear-gradient(left, #e55d1f, #ec7624);
+}
+.okker {
+  background-color: #d2ae00;
+  background: -webkit-linear-gradient(left, #d2ae00, #dcc000);
+}
+.red {
+  background-color: #c3203f;
+  background: -webkit-linear-gradient(left, #c3203f, #d1294d);
+}

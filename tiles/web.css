@@ -1,0 +1,7 @@
+tile.Web {
+}
+tile.Web:hover {
+}
+tile.Web span.bigicon {
+  background-image: url(icon/web-110.png);
+}

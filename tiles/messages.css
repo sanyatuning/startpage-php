@@ -1,0 +1,7 @@
+tile.Messages {
+}
+tile.Messages:hover {
+}
+tile.Messages span.bigicon {
+  background-image: url(icon/messages-110.png);
+}
